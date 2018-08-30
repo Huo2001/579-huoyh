@@ -5,3 +5,4 @@ tylor swift
 study statistics courses
 R
 
+Jinu wAS HERE-stat 579
